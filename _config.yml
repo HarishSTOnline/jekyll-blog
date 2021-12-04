@@ -9,7 +9,7 @@ name: Blog of HarishST
 description: Getting started with some blogging!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/blog-logo.png
+avatar: "/images/blog-logo.png"
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: HarishSTOnline
   instagram:
-  linkedin: in/harishst
+  linkedin: harishst
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
