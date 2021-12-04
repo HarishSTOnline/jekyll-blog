@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: MOVE WEBROOT TO A NEW LOCATION (EXTERNAL DISK)
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+- Change Nginx config (https://www.digitalocean.com/community/tutorials/how-to-move-an-nginx-web-root-to-a-new-location-on-ubuntu-18-04).
+- Add Execute permission to the new web root (https://stackoverflow.com/questions/25774999/nginx-stat-failed-13-permission-denied).
